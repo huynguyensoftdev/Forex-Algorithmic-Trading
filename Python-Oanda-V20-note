@@ -1,0 +1,9 @@
+# PyPI pip install v20
+hostname: api-fxpractice.oanda.com<br />
+streaming_hostname: stream-fxpractice.oanda.com<br />
+port: 443<br />
+ssl: true<br />
+token: <br />
+username:<br />
+accounts:<br />
+active_account: <br />
